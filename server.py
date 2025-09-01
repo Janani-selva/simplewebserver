@@ -27,7 +27,7 @@ content = '''
         </table>
     </BODY>
 </HTML>
-'''
+''' 
 
 class MyServer(BaseHTTPRequestHandler):
     def do_GET(self):
