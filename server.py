@@ -12,7 +12,7 @@ content = '''
                 <th>Name of the protocols</th>
             </tr>
             <tr>
-            I   <td>1</td><td>Application layer</td><td>HTML,FTP,Telnet,RDP,DNS,SSH,SMTP,SNTP</td>
+                <td>1</td><td>Application layer</td><td>HTML,FTP,Telnet,RDP,DNS,SSH,SMTP,SNTP</td>
             </tr>
             <tr>
                 <td>2</td><td>Transport layer</td><td>TCP & UDP</td>
