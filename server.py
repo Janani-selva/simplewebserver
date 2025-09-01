@@ -6,8 +6,8 @@ content = '''
     <HEAD>
         </TITLE>
     </HEAD>
-    <BODY bgcolor="pink">
-        <table border="1" align="center" bgcolor="cyan" cellpadding="10"
+    <BODY bgcolor="red">
+        <table border="1" align="center" bgcolor="yellow" cellpadding="10"
             <tr><th>S.no.</th><th>Name of the layers</th>
                 <th>Name of the protocols</th>
             </tr>
